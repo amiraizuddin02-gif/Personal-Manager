@@ -16,7 +16,8 @@ Features:
 ============================================================================
 
 1.0 Financial Manager
-This section will handle everything regarding a person's finances; Income, Expenses, Bills, Wallets
+
+- This section will handle everything regarding a person's finances; Income, Expenses, Bills, Wallets
 
     1.1 Income
 - User can manually insert the amount of income.
@@ -42,6 +43,7 @@ This section will handle everything regarding a person's finances; Income, Expen
 ============================================================================
 
 2.0 Schedule Manager
+
 - This section will handle everything regarding a person's schedule; Events, Appointments, Tasks.
 - A Dashboard exists to display the user's upcoming Tasks or Events.
 
@@ -59,7 +61,8 @@ This section will handle everything regarding a person's finances; Income, Expen
 ============================================================================
 
 3.0 Inventory Manager
-This section will handle everything regarding a person's inventory; Assets, Tools, Grocery List, Shopping List.
+
+- This section will handle everything regarding a person's inventory; Assets, Tools, Grocery List, Shopping List.
 
     3.1 Inventory Stock
 - The inventory list of items the user has.
