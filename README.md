@@ -1,6 +1,10 @@
 # Personal-Manager
 An app to assist with personal management.
 
+Questions;
+~ For 1.6 - How does budgeting work?
+~ 
+
 Features:
 1. Financial Manager
 2. Schedule Manager
@@ -25,7 +29,7 @@ This section will handle everything regarding a person's finances; Income, Expen
     1.2 Expenses
 - User can insert the transaction details.
 - User can choose the category of the expense transaction.
-- User choose which "Wallet" is handling that transaction. Primary Wallet is selected by default is Wallet is not chosen.
+- User choose which "Wallet" is handling that transaction. Primary Wallet is selected by default if a Wallet is not chosen.
 
     1.3 Bills
 - User register their bills and it's date-for-payment.
@@ -39,6 +43,15 @@ This section will handle everything regarding a person's finances; Income, Expen
 
     1.5 Wallet Transfer
 - Transfers amount between user's Wallets.
+
+    1.6 Budget Tracking
+- User can set budgets.
+- The manager tracks user's budgets and warns when expense goes above determined budget.
+
+    1.7 Analytics
+- The manager tracks user's Income and Expenses.
+- The Manager display analytics of user's transactions.
+
 ============================================================================
 
 2.0 Schedule Manager
