@@ -6,15 +6,13 @@ Features:
 2. Schedule Manager
 3. Inventory Manager
 
-==========================================================================================================================================================
-
+============================================================================
 0.0 Dashboard
 - Display user's Shopping List
 - Display user's upcoming Tasks or Events.
 - Display user's Primary Wallet's balance.
 
-==========================================================================================================================================================
-
+============================================================================
 1.0 Financial Manager
 This section will handle everything regarding a person's finances; Income, Expenses, Bills, Wallets
 
@@ -39,8 +37,7 @@ This section will handle everything regarding a person's finances; Income, Expen
 
     1.5 Wallet Transfer
 - Transfers amount between user's Wallets.
-==========================================================================================================================================================
-
+============================================================================
 2.0 Schedule Manager
 - This section will handle everything regarding a person's schedule; Events, Appointments, Tasks.
 - A Dashboard exists to display the user's upcoming Tasks or Events.
@@ -56,8 +53,7 @@ This section will handle everything regarding a person's finances; Income, Expen
 - Holds all Events and Tasks list, in a easy-to-read manner.
 - Reminds user of their Events and Tasks.
 
-==========================================================================================================================================================
-
+============================================================================
 3.0 Inventory Manager
 This section will handle everything regarding a person's inventory; Assets, Tools, Grocery List, Shopping List.
 
