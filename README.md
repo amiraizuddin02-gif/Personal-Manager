@@ -24,7 +24,7 @@ This section will handle everything regarding a person's finances; Income, Expen
 
     1.1 Income
 - User can manually insert the amount of income.
-- User states to which "Wallet" the money goes. Primary Wallet is selected by default is Wallet is not chosen.
+- User states to which "Wallet" the money goes. Primary Wallet is selected by default if a Wallet is not chosen.
 
     1.2 Expenses
 - User can insert the transaction details.
@@ -33,6 +33,7 @@ This section will handle everything regarding a person's finances; Income, Expen
 
     1.3 Bills
 - User register their bills and it's date-for-payment.
+- User can choose if a Bill is repeating, and how often it repeats.
 - The manager reminds user when a bill is due.
 
     1.4 Wallets
@@ -56,14 +57,17 @@ This section will handle everything regarding a person's finances; Income, Expen
 
 2.0 Schedule Manager
 - This section will handle everything regarding a person's schedule; Events, Appointments, Tasks.
-- A Dashboard exists to display the user's upcoming Tasks or Events.
 
     2.1 Events
 - User can register upcoming events or appointments to be added to their calendar.
+- Can categorise Events by user-created Category. If no category exists, Events will be stored in default category named "User Events".
+- Different Events categories can be assigned different Color template/theme.
 
     2.2 Tasks
 - User register tasks and its due.
 - The manager reminds user of their tasks.
+- Can categorise Tasks by user-created Category. If no category exists, Tasks will be stored in default category named "User Tasks".
+- Different Tasks categories can be assigned different Color template/theme.
 
     2.3 Calendar
 - Holds all Events and Tasks list, in a easy-to-read manner.
@@ -77,8 +81,12 @@ This section will handle everything regarding a person's inventory; Assets, Tool
     3.1 Inventory Stock
 - The inventory list of items the user has.
 - Can be categorised. (Such as "Hardware", "Grocery", "Assets", etc.)
-- Categories are, preferably, customizable; with a few existing defaults.
+- Categories are user-created, with a few existing defaults.
 
     3.2 Shopping/Grocery List
 - A list for of items that the user wishes to buy.
+
+    3.3 Inventory Table
+- A table displays all existing Inventory Stock. 
+- Can be filtered by Inventory categories. 
 
